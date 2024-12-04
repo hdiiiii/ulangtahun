@@ -138,7 +138,7 @@ body {
 }
 
 .navbar {
-    background-color: #333;
+    background-color: #black;
     height: 60px; /* Tinggi navbar */
     display: flex;
     justify-content: center; /* Mengatur konten agar berada di tengah */
